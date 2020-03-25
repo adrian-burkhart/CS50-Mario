@@ -1,0 +1,1 @@
+A small task from CS50 that prints a pyramid using hashes.
